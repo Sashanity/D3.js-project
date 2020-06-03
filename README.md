@@ -11,5 +11,7 @@ $ npm i -g http-server
 ```
 ```sh
 # run from the project folder
- http-server &
+$ http-server &
 ```
+
+[Data] (https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
