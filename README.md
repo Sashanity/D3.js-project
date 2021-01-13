@@ -1,3 +1,6 @@
+Just played with some data from Kaggle using JS, HTML and CSS
+
+![Graph](docs/graph.png)
 ## To run
 
 ```sh
